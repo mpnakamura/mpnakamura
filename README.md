@@ -25,9 +25,3 @@ I am very interested in front-end and back-end development. I especially like Re
   We have developed our own automated submission of X. There are other multifunctional tools on the market, but all of them are paid. Therefore, we combined the minimum necessary functions. We were able to create a very easy to use and modern system.
 
 
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mpnakamura)
