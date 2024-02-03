@@ -15,13 +15,13 @@ I am very interested in front-end and back-end development. I especially like Re
 
 ## Collection of Works
 
-- **[Visit the Healthcare Professional App](https://assessment-pdf-app.com)**  
+- **[Assessment PDF App](https://assessment-pdf-app.com)**  
   This is a web application for healthcare professionals. Until now, we used to print out evaluation forms and write them down as we went along. This was an inefficient situation. We have seen situations where evaluations were not performed due to inefficiency. This reduces medical effectiveness. This application can input numbers and evaluations on the front end and output them to PDF. We were able to improve efficiency, go paperless, and gain contributions to medical effectiveness.
 
-- **[Check out the Line Chatbot](https://lin.ee/nmc0hnJ)**  
+- **[Ainnect LINE chatbot](https://lin.ee/nmc0hnJ)**  
   This is a chatbot created with Line Developer. I created it using OpenAI API, Messaging API, Google Speech to text API, and Custom Search API, thinking that it would be easy to utilize the latest AI on LINE.
 
-- **[Explore the Automated Submission System](https://x-app-7ede8bdeaf64.herokuapp.com)**  
+- **[X Automatic Posting App](https://x-app-7ede8bdeaf64.herokuapp.com)**  
   We have developed our own automated submission of X. There are other multifunctional tools on the market, but all of them are paid. Therefore, we combined the minimum necessary functions. We were able to create a very easy to use and modern system.
 
 
