@@ -13,24 +13,20 @@ I will make an effort to help people 1:n instead of 1:1 for the rest of my life.
 
 <h2>Collection of works developed</h2>
 
-<a href="https://assessment-pdf-app.com">
-<p>
-This is a web application for healthcare professionals.
-Until now, we used to print out evaluation forms and write them down as we went along. This was an inefficient situation. We have seen situations where evaluations were not performed due to inefficiency. This reduces medical effectiveness.
-This application can input numbers and evaluations on the front end and output them to PDF.
-We were able to improve efficiency, go paperless, and gain contributions to medical effectiveness.
-</p>
+<div>
+    <p>This is a web application for healthcare professionals. Until now, we used to print out evaluation forms and write them down as we went along. This was an inefficient situation. We have seen situations where evaluations were not performed due to inefficiency. This reduces medical effectiveness. This application can input numbers and evaluations on the front end and output them to PDF. We were able to improve efficiency, go paperless, and gain contributions to medical effectiveness.</p>
+    <a href="https://assessment-pdf-app.com" class="link-style">Visit the Healthcare Professional App</a>
+</div>
 
-<a href ="https://lin.ee/nmc0hnJ">
+<div>
+    <p>This is a chatbot created with Line Developer. I created it using OpenAI API, Messaging API, Google Speech to text API, and Custom Search API, thinking that it would be easy to utilize the latest AI on LINE.</p>
+    <a href="https://lin.ee/nmc0hnJ" class="link-style">Check out the Line Chatbot</a>
+</div>
 
-This is a chatbot created with Line Developer.
-I created it using OpenAI API, Messaging API, Google Speech to text API, and Custom Search API, thinking that it would be easy to utilize the latest AI on LINE.
-
-<a href ="https://x-app-7ede8bdeaf64.herokuapp.com">
-
-We have developed our own automated submission of X.
-There are other multifunctional tools on the market, but all of them are paid. Therefore, we combined the minimum necessary functions.
-We were able to create a very easy to use and modern system.
+<div>
+    <p>We have developed our own automated submission of X. There are other multifunctional tools on the market, but all of them are paid. Therefore, we combined the minimum necessary functions. We were able to create a very easy to use and modern system.</p>
+    <a href="https://x-app-7ede8bdeaf64.herokuapp.com" class="link-style">Explore the Automated Submission System</a>
+</div>
 
 
 
